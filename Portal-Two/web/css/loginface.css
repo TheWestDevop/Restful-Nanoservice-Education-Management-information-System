@@ -1,0 +1,116 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Jul 2, 2018, 11:41:12 AM
+    Author     : user
+*/
+.bg-pink{
+    background-color: #880e4f;
+}
+
+.message{
+    color:#dd7327;
+    font-family: "New Times";
+    font-size:20px;
+    font-style:normal;
+    font-weight: bold;
+    
+      
+}
+        .logbtn{
+    font-family:"New Times"; 
+    font-weight:bold;
+    font-size: 1em;
+    outline: none;
+    width: 170px;
+    height: 50px;
+    text-align: center;
+    
+    color:#000000;
+    cursor: pointer;
+    background: #00e676;
+    border-radius: 30px;
+}
+.logbtn:hover{
+    background:#88d288;
+    width:180px;
+    opacity:2;
+    border:none;
+    border-radius:25px;
+    border-bottom-color:gray;
+}
+.forgottenbtn{
+     font-family:"New Times"; 
+    font-weight:bold;
+    font-size: 1em;
+    outline: none;
+    width: 170px;
+    height: 50px;
+    text-align: center;
+
+    color:#000000;
+    cursor: pointer;
+    background: #2196f3;
+    border-radius: 30px;
+}
+.forgottenbtn:hover{
+    background:#5f95e8;
+    width:180px;
+    opacity:2;
+    border:none;
+    border-radius:25px;
+    
+    border-bottom-color:gray;
+}
+        .heading{
+    color:#ffff99;
+    text-shadow:5px 0px black;
+    text-align:center;
+    font-family: sans-serif;
+    font-kerning: auto;
+    font-size:55px;
+    font-style:normal;
+    font-weight:bolder;
+    border-color: #fd0101;
+        
+}
+.adminlog{
+    color:#ffffcc;
+    text-shadow:5px 0px black;
+    text-align:center;
+    font-family: sans-serif;
+    font-kerning: auto;
+    font-style:normal;
+    font-weight:bolder;
+    border-color: #000;
+}
+    .signin-form {
+     background:transparent;
+    padding: 2em 2em;
+    text-align: center;
+     border-radius:10px; 
+    max-width:450px;
+    max-height:450px; 
+    background-size: cover;
+    padding: 2em 2em;
+    box-shadow: 10px 8px 84px #000;
+
+} 
+#skul{
+    
+   font-family:The New Times,serif;
+    font-weight:bold;
+    text-align: center;
+}
+html ,body{
+    background-image: url(img/12.jpg);
+    background-repeat: no-repeat;
+    background-size:cover;
+    width:auto;
+    height: auto;
+}
+
+
